@@ -58,6 +58,7 @@
         <div class="row">
             <div class="col-md-8 text-left">
             <p>&copy; 2017 <a href="https://uicookies.com/">uiCookies:Enlight</a></p>
+            <p>SMP Yayasan Budi Bakti</p>
             </div>
             <div class="col-md-4 probootstrap-back-to-top">
             <p><a href="#" class="js-backtotop">Kembali Keatas <i class="icon-arrow-long-up"></i></a></p>
