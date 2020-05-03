@@ -18,10 +18,10 @@
             <h3>Sosial Media</h3>
             <ul class="probootstrap-footer-social">
                 <li><a href="#"><i class="icon-twitter"></i></a></li>
-                <li><a href="#"><i class="icon-facebook"></i></a></li>
-                <li><a href="#"><i class="icon-github"></i></a></li>
-                <li><a href="#"><i class="icon-dribbble"></i></a></li>
-                <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                <li><a href="https://www.facebook.com/pages/SMP-YBB-Yayasan-Budi-Bakti-Bandung/586904348096496?ref=br_rs"><i class="icon-facebook"></i></a></li>
+                <li><a href="https://github.com/aprilarr"><i class="icon-github"></i></a></li>
+                <li><a href="https://www.instagram.com/budibakti80/?hl=en"><i class="icon-instagram2"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/aprila-rachmat-riady-160830154/"><i class="icon-linkedin"></i></a></li>
                 <li><a href="#"><i class="icon-youtube"></i></a></li>
             </ul>
             </div>

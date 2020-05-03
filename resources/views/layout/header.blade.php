@@ -40,8 +40,8 @@
         <div class="col-lg-3 col-md-3 col-sm-3 probootstrap-top-social">
             <ul>
             <li><a href="#"><i class="icon-twitter"></i></a></li>
-            <li><a href="#"><i class="icon-facebook2"></i></a></li>
-            <li><a href="#"><i class="icon-instagram2"></i></a></li>
+            <li><a href="https://www.facebook.com/pages/SMP-YBB-Yayasan-Budi-Bakti-Bandung/586904348096496?ref=br_rs"><i class="icon-facebook2"></i></a></li>
+            <li><a href="https://www.instagram.com/budibakti80/?hl=en"><i class="icon-instagram2"></i></a></li>
             <li><a href="#"><i class="icon-youtube"></i></a></li>
             </ul>
         </div>
