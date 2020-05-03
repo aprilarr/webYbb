@@ -42,7 +42,7 @@
             <h3>Info Kontak</h3>
             <ul class="probootstrap-contact-info">
                 <li><i class="icon-location2"></i> <span>Jl. Citepus II No.3, Pajajaran Bandung</span></li>
-                <li><i class="icon-mail"></i><span>smpybbbdg@gmail.com</span></li>
+                <li><i class="icon-mail"></i><span>budi.bakti1980@gmail.com</span></li>
                 <li><i class="icon-phone2"></i><span>(022)-60070463</span></li>
             </ul>
             </div>
