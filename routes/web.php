@@ -32,3 +32,13 @@ Route::get('/galeri', function () {
     $nama = 'GALERI SMP YBB';
     return view('galeri', ['nama' => $nama]);
 });
+
+Route::get('/portal', function () {
+    $nama = 'PORTAL BERITA SMP YBB';
+    return view('portal', ['nama' => $nama]);
+});
+
+Route::get('/profil', function () {
+    $nama = 'PROFIL SMP YBB';
+    return view('profil', ['nama' => $nama]);
+});

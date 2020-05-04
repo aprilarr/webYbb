@@ -70,7 +70,7 @@
             <li class="dropdown">
             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Halaman</a>
             <ul class="dropdown-menu">
-                <li><a href="#">Profil Sekolah</a></li>
+                <li><a href="/profil">Profil Sekolah</a></li>
                 <li><a href="#">Struktur Organisasi</a></li>
                 <li><a href="#">Prestasi</a></li>
                 <li><a href="/galeri">Galeri</a></li>

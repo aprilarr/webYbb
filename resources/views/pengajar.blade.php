@@ -11,7 +11,7 @@
 </section>
 @endsection
 @section('container')
-        <section class="probootstrap-section">
+    <section class="probootstrap-section">
     <div class="container">
         <div class="row">
         <div class="col-md-12">
@@ -21,9 +21,8 @@
                 <p>Dengan adanya pendidikan dan tenaga kependidikan yang berpendidikan luhur, berakhlak mulia dan mempunyai jiwa sosial yang baik
                     akan memudahkan untuk membimbing peserta didik kearah yang baik agar menjadi kebanggaan bagi bangsa ini. 
                 </p>
-                <p><a href="#" class="btn btn-primary">Learn More</a></p>
             </div>
-            <div class="probootstrap-image probootstrap-animate" style="background-image: url(img/slider_3.jpg)">
+            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/slider_3.jpg)">
                 <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
             </div>
             </div>

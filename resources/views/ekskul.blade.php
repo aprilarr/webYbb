@@ -20,7 +20,6 @@
                 <div class="text-uppercase probootstrap-uppercase">SMP YBB</div>
                 <h3>Ekstrakulikuler</h3>
                 <p>Ekstrakulikler adalah tempat peserta didik untuk mengembangkan kemampuan yang dimiliki sesuai dengan bakat dan minatnya. </p>
-                <p><a href="#" class="btn btn-primary">Enroll now</a></p>
             </div>
             <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/ekskul/slider_3.jpg)">
                 <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>

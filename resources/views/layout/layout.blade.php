@@ -8,7 +8,7 @@
                 <div class="probootstrap-text probootstrap-animate">
                   <h3>SMP YBB</h3>
                   <p>SMP Yayasan Budi Bakti atau bisa juga disebut SMP YBB adalah sekolah swasta yang berda dalam naungan yayasan, yang berkewajiban untuk mendidik putra/putri bangsa ke arah yang benar.</p>
-                  <p><a href="#" class="btn btn-primary">Lebih Lanjut</a></p>
+                  <p><a href="/profil" class="btn btn-primary">Lebih Lanjut</a></p>
                 </div>
                 <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/slider_3.jpg)">
                   <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
@@ -101,7 +101,7 @@
                 </div>
                   <div class="row">
                     <div class="col-md-12 text-center">
-                      <p><a href="#" class="btn btn-primary">Lihat Semua</a></p>  
+                      <p><a href="/portal" class="btn btn-primary">Lihat Semua</a></p>  
                     </div>
                   </div>
                 </div>
