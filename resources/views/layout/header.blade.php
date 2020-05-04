@@ -71,7 +71,7 @@
             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Halaman</a>
             <ul class="dropdown-menu">
                 <li><a href="/profil">Profil Sekolah</a></li>
-                <li><a href="#">Struktur Organisasi</a></li>
+                <li><a href="/organigram">Struktur Organisasi</a></li>
                 <li><a href="#">Prestasi</a></li>
                 <li><a href="/galeri">Galeri</a></li>
             </ul>
@@ -82,7 +82,7 @@
                 <li><a href="http://yayasanbudibaktibdg.sch.id">SPMI SMP YBB</a></li>
             </ul>
             </li>
-            <li><a href="#">Kontak</a></li>
+            <li><a href="/kontak">Kontak</a></li>
         </ul>
         </div>
     </div>

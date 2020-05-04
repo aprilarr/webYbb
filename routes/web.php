@@ -42,3 +42,13 @@ Route::get('/profil', function () {
     $nama = 'PROFIL SMP YBB';
     return view('profil', ['nama' => $nama]);
 });
+
+Route::get('/organigram', function () {
+    $nama = 'STRUKTUR ORGANISASI SMP YBB';
+    return view('organigram', ['nama' => $nama]);
+});
+
+Route::get('/kontak', function () {
+    $nama = 'HUBUNGI KAMI';
+    return view('kontak', ['nama' => $nama]);
+});

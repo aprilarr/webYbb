@@ -31,7 +31,8 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/ekskul">Ekstrakulikuler</a></li>
                 <li><a href="/pengajar">Pengajar</a></li>
-                <li><a href="#">Kontak</a></li>
+                <li><a href="/kontak">Kontak</a></li>
+                <li><a href="http://yayasanbudibaktibdg.sch.id">SPMI</a></li>
             </ul>
             </div>
         </div>
@@ -57,6 +58,7 @@
             <div class="col-md-8 text-left">
             <p>&copy; 2017 <a href="https://uicookies.com/">uiCookies:Enlight</a></p>
             <p>SMP Yayasan Budi Bakti</p>
+            <p>Sistem Informasi Penjaminan Mutu Internal SMP YBB =><a href="http://yayasanbudibaktibdg.sch.id"> SPMI YBB </a></p>
             </div>
             <div class="col-md-4 probootstrap-back-to-top">
             <p><a href="#" class="js-backtotop">Kembali Keatas <i class="icon-arrow-long-up"></i></a></p>
