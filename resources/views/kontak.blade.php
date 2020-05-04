@@ -32,8 +32,8 @@
                 </div>
             </div>
             <div class="col-md-7 col-md-push-1  probootstrap-animate" id="probootstrap-content">
-                <h2>Isi Terlebih Dahulu</h2>
-                <p>Hubungi kami dengan : </p>
+                <h2>Hubungi Kami Dengan:</h2>
+                <p>semua kritik dan saran anda dapat anda kirim melalui pengisian formulir dibawah ini. </p>
                 <form action="#" method="post" class="probootstrap-form">
                 <div class="form-group">
                     <label for="name">Full Name</label>
