@@ -340,22 +340,22 @@
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Consectetur Adipisicing</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>Tenaga Pendidik Berkualifikasi</h3>
+                  <p>Dengan rata-rata tenaga kependidikan yang sudah berkualifikasi S1 sudah dipastikan tenaga kependidikan kami unggul dalam pedagogik, profesional, amanah,cerdas, kreatif, dinamik dan enerjik.</p>
                 </div>  
               </div>
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Aliquid Dolorum Saepe</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>Berbudaya</h3>
+                  <p>Pelestarian budaya lokal / tradisional khususnya budaya sunda adalah bentuk cinta kepada leluhur dan nenek moyang suku sunda.</p>
                 </div>
               </div>
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Eveniet Tempora Anisi</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>Up to Date</h3>
+                  <p>Selalu mengikuti perkembangan ilmu pengetahuan dan teknologi.</p>
                 </div>
               </div>
             </div>
@@ -363,24 +363,24 @@
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Laboriosam Quod Dignissimos</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>Berkarakter</h3>
+                  <p>Mencetak siswa/siswi yang berkarakter baik berdasarkan norma, agama dan budaya.</p>
                 </div>  
               </div>
               
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Asperiores Maxime Modi</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>Religius</h3>
+                  <p>Membimbing spiritual siswa/siswi dalam bentuk sikap dan prilaku yang patuh dalam melaksanakan ajaran agama Islam.</p>
                 </div>
               </div>
               
               <div class="service left-icon probootstrap-animate">
                 <div class="icon"><i class="icon-checkmark"></i></div>
                 <div class="text">
-                  <h3>Libero Maxime Molestiae</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
+                  <h3>7 K</h3>
+                  <p>Kebersihan, Keamanan, Ketertiban, Keindahan, Kenyamanan, Ketentraman, Kerindangan</p>
                 </div>
               </div>
 
