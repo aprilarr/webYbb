@@ -79,7 +79,7 @@
             <li class="dropdown">
             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Terkait</a>
             <ul class="dropdown-menu">
-                <li><a href="http://yayasanbudibaktibdg.sch.id">SPMI SMP YBB</a></li>
+                <li><a href="http://spmi.yayasanbudibaktibdg.sch.id">SPMI SMP YBB</a></li>
             </ul>
             </li>
             <li><a href="/kontak">Kontak</a></li>
