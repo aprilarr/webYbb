@@ -30,7 +30,7 @@
             <ul>
                 <li><a href="/">Home</a></li>
                 <li><a href="/ekskul">Ekstrakulikuler</a></li>
-                <li><a href="/pengajar">Pengajar</a></li>
+                <li><a href="/pengajar">Tenaga Kependidikan</a></li>
                 <li><a href="/kontak">Kontak</a></li>
                 <li><a href="http://yayasanbudibaktibdg.sch.id">SPMI</a></li>
             </ul>

@@ -21,8 +21,8 @@
                 <h3>Ekstrakulikuler</h3>
                 <p>Ekstrakulikler adalah tempat peserta didik untuk mengembangkan kemampuan yang dimiliki sesuai dengan bakat dan minatnya. </p>
             </div>
-            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/ekskul/slider_3.jpg)">
-                <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
+            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/ekskul/ekskul.jpg)">
+                <a href="enlight/img/ekskul/ekskul.jpg" class="btn-video popup-vimeo"></a>
             </div>
             </div>
         </div>
@@ -78,7 +78,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/ekskul/pramuka.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/pramuka2.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -96,26 +96,26 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/ekskul/img_sm_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/silat.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
                 <span class="probootstrap-meta"></span>
-                <h3>Application Design</h3>
-                <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
+                <h3>Pencak Silat</h3>
+                <p>Ekrakulikuler budaya sunda yang dapat mengajarkan bela diri tradisional dan tarian bela diri tradisional.</p>
             </div>
             </div>
 
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/ekskul/img_sm_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/futsal.jpeg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
                 <span class="probootstrap-meta"></span>
-                <h3>Chemical Engineering</h3>
-                <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
+                <h3>Futsal</h3>
+                <p>Ekrakulikuler mengasah dalam bidang olahraga.</p>
             </div>
             </div>
 
@@ -124,26 +124,13 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/ekskul/img_sm_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/angklung.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
                 <span class="probootstrap-meta"></span>
-                <h3>Math Major</h3>
-                <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
-            </div>
-            </div>
-
-            <div class="probootstrap-service-2 probootstrap-animate">
-            <div class="image">
-                <div class="image-bg">
-                <img src="enlight/img/ekskul/img_sm_4.jpg" alt="Free Bootstrap Template by uicookies.com">
-                </div>
-            </div>
-            <div class="text">
-                <span class="probootstrap-meta"></span>
-                <h3>English Major</h3>
-                <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
+                <h3>angklung</h3>
+                <p>Keharmonisan suara alat musik bambu yang sangat menarik.</p>
             </div>
             </div>
 

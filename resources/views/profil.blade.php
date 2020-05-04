@@ -21,8 +21,8 @@
                 <br>
                 <br>
             </div>
-            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/slider_4.jpg)">
-                <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
+            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/gedung.jpg)">
+                <a href="enlight/img/gedung.jpg" class="btn-video popup-vimeo"></a>
             </div>
             </div>
         </div>

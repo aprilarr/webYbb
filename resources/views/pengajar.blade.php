@@ -22,8 +22,8 @@
                     akan memudahkan untuk membimbing peserta didik kearah yang baik agar menjadi kebanggaan bagi bangsa ini. 
                 </p>
             </div>
-            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/slider_3.jpg)">
-                <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
+            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/guru.jpg)">
+                <a href="enlight/img/guru.jpg" class="btn-video popup-vimeo"></a>
             </div>
             </div>
         </div>
@@ -322,6 +322,7 @@
             </div>
         </div>
         </div>
+        <div class="row">
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
@@ -338,6 +339,25 @@
                 </ul>
             </div>
             </div>
+            
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="probootstrap-teacher text-center probootstrap-animate">
+            <figure class="media">
+                <img src="enlight/img/guru/dadu.jpeg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+            </figure>
+            <div class="text">
+                <h3>Agus Sopian</h3>
+                <p>Pelatih Pramuka</p>
+                <ul class="probootstrap-footer-social">
+                <li class="twitter"><a href="#"><i class="icon-twitter"></i></a></li>
+                <li class="facebook"><a href="#"><i class="icon-facebook2"></i></a></li>
+                <li class="instagram"><a href="#"><i class="icon-instagram2"></i></a></li>
+                <li class="google-plus"><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+            </div>
+        </div>
         </div>
     </div>
     </section>

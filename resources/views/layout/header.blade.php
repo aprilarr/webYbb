@@ -66,7 +66,7 @@
         <ul class="nav navbar-nav navbar-right">
             <li><a href="/">Home</a></li>
             <li><a href="/ekskul">Ekstrakulikuler</a></li>
-            <li><a href="/pengajar">Pengajar</a></li>
+            <li><a href="/pengajar">Tenaga Kependidikan</a></li>
             <li class="dropdown">
             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Halaman</a>
             <ul class="dropdown-menu">
