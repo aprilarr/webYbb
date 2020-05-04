@@ -27,3 +27,8 @@ Route::get('/pengajar', function () {
     $nama = 'TENAGA KEPENDIDIKAN';
     return view('pengajar', ['nama' => $nama]);
 });
+
+Route::get('/galeri', function () {
+    $nama = 'GALERI SMP YBB';
+    return view('galeri', ['nama' => $nama]);
+});
