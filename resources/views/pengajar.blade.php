@@ -40,7 +40,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/nanang.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/nanang.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Nanang Suryana, S.Pd</h3>
@@ -57,7 +57,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/cacan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/cacan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Noviady Chandra S. P., S.Kom</h3>
@@ -75,7 +75,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/anita.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/anita.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Anita Mulyani, S.Pd</h3>
@@ -92,7 +92,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/dewi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/dewi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Restu Dewi B., S.Pd</h3>
@@ -112,7 +112,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/rosi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/rosi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Rosi Rosidah, S.Pd</h3>
@@ -129,7 +129,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/iwan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/iwan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Iwan Hernawan, S.Pd</h3>
@@ -147,7 +147,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/ahmad.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/ahmad.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Ahmad Ihsanul L., S.Pd</h3>
@@ -164,7 +164,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/ucep.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/ucep.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Ucep Kresna R</h3>
@@ -184,7 +184,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/irma.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/irma.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Irma Suryani, S.Pd</h3>
@@ -201,7 +201,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/nur.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/nur.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Nurhayati, Aks</h3>
@@ -219,7 +219,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/dodi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/dodi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Dodi Rosada</h3>
@@ -236,7 +236,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/engkos.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/engkos.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Engkos Koswara</h3>
@@ -256,7 +256,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/uun.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/uun.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Uun Djuni T</h3>
@@ -273,7 +273,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/yusnan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/yusnan.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Drs. Yusnan N</h3>
@@ -291,7 +291,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/person_6.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/person_5.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Kurnia Setiawan, S.Pd</h3>
@@ -308,7 +308,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/person_7.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/person_5.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Arie Abdul A. R., M.Pd</h3>
@@ -326,7 +326,7 @@
         <div class="col-md-3 col-sm-6">
             <div class="probootstrap-teacher text-center probootstrap-animate">
             <figure class="media">
-                <img src="enlight/img/person_7.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                <img src="enlight/img/guru/person_5.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
             </figure>
             <div class="text">
                 <h3>Nandang Warsa, S.Pd</h3>

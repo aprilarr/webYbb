@@ -22,7 +22,7 @@
                 <p>Ekstrakulikler adalah tempat peserta didik untuk mengembangkan kemampuan yang dimiliki sesuai dengan bakat dan minatnya. </p>
                 <p><a href="#" class="btn btn-primary">Enroll now</a></p>
             </div>
-            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/slider_3.jpg)">
+            <div class="probootstrap-image probootstrap-animate" style="background-image: url(enlight/img/ekskul/slider_3.jpg)">
                 <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
             </div>
             </div>
@@ -38,7 +38,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/degung.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/degung.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -51,7 +51,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/tari.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/tari.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -66,7 +66,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/padus.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/padus.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -79,7 +79,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/pramuka.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/pramuka.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -97,7 +97,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/img_sm_1.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/img_sm_1.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -110,7 +110,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/img_sm_3.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/img_sm_3.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -125,7 +125,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/img_sm_2.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/img_sm_2.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">
@@ -138,7 +138,7 @@
             <div class="probootstrap-service-2 probootstrap-animate">
             <div class="image">
                 <div class="image-bg">
-                <img src="enlight/img/img_sm_4.jpg" alt="Free Bootstrap Template by uicookies.com">
+                <img src="enlight/img/ekskul/img_sm_4.jpg" alt="Free Bootstrap Template by uicookies.com">
                 </div>
             </div>
             <div class="text">

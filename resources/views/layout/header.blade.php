@@ -73,7 +73,7 @@
                 <li><a href="#">Profil Sekolah</a></li>
                 <li><a href="#">Struktur Organisasi</a></li>
                 <li><a href="#">Prestasi</a></li>
-                <li><a href="#">Gallery</a></li>
+                <li><a href="/galeri">Galeri</a></li>
             </ul>
             </li>
             <li class="dropdown">

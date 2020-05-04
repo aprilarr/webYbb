@@ -47,7 +47,7 @@
                       <div class="owl-carousel" id="owl1">
                         <div class="item">
                           <a href="#" class="probootstrap-featured-news-box">
-                            <figure class="probootstrap-media"><img src="enlight/img/brosur.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
+                            <figure class="probootstrap-media"><img src="enlight/img/portal/brosur.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
                             <div class="probootstrap-text">
                               <h3>PPDB Online 2020-2021</h3>
                               <p>Link Pendaftaran : <a href="https://docs.google.com/forms/d/1KL9FLpYKe2f8_1SSACPJ22aIVoNYUlG2NT4yPZGOuTk/edit">Klik Disini</a></p>
@@ -61,7 +61,7 @@
                         <!-- END item -->
                         <div class="item">
                           <a href="#" class="probootstrap-featured-news-box">
-                            <figure class="probootstrap-media"><img src="enlight/img/kaos.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
+                            <figure class="probootstrap-media"><img src="enlight/img/portal/kaos.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
                             <div class="probootstrap-text">
                               <h3>Desain Baju SMP YBB</h3>
                               <p>SMP YBB Telah mengeluarkan desain baru untuk kaos yang akan dipakai pada periode tahun ajaran 2020-2021.</p>
@@ -73,7 +73,7 @@
                         <!-- END item -->
                         <div class="item">
                           <a href="#" class="probootstrap-featured-news-box">
-                            <figure class="probootstrap-media"><img src="enlight/img/balon.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
+                            <figure class="probootstrap-media"><img src="enlight/img/portal/balon.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
                             <div class="probootstrap-text">
                               <h3>PPDB 2019-2020</h3>
                               <p>PPDB (Penerimaan Peserta Didik Baru) SMP Yayasan Budi Bakti Sudah dilaksanakan dan disahkan dengan acara pelepasan balon.</p>
@@ -85,7 +85,7 @@
                         <!-- END item -->
                         <div class="item">
                           <a href="#" class="probootstrap-featured-news-box">
-                            <figure class="probootstrap-media"><img src="enlight/img/adha.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
+                            <figure class="probootstrap-media"><img src="enlight/img/portal/adha.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive"></figure>
                             <div class="probootstrap-text">
                               <h3>Idul Adha 1440 H</h3>
                               <p>Di hari Idul Adha 1440H, SMP Yayasan Budi Bakti telah melaksakan qurban dengan total 4 hewan qurban, diantara hewan qurban tersebut adalah 1 ekor sapi dan 3 ekor domba.</p>
@@ -127,7 +127,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="enlight/img/degung.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="enlight/img/ekskul/degung.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </div>
                 </div>
                 <div class="text">
@@ -140,7 +140,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="enlight/img/tari.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="enlight/img/ekskul/tari.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </div>
                 </div>
                 <div class="text">
@@ -155,7 +155,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="enlight/img/padus.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="enlight/img/ekskul/padus.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </div>
                 </div>
                 <div class="text">
@@ -168,7 +168,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="enlight/img/pramuka.jpg" alt="Free Bootstrap Template by uicookies.com">
+                    <img src="enlight/img/ekskul/pramuka.jpg" alt="Free Bootstrap Template by uicookies.com">
                   </div>
                 </div>
                 <div class="text">
@@ -204,7 +204,7 @@
             <div class="col-md-3 col-sm-6">
               <div class="probootstrap-teacher text-center probootstrap-animate">
                 <figure class="media">
-                  <img src="enlight/img/nanang.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                  <img src="enlight/img/guru/nanang.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
                 </figure>
                 <div class="text">
                   <h3>Nanang Suryana, S.Pd</h3>
@@ -221,7 +221,7 @@
             <div class="col-md-3 col-sm-6">
               <div class="probootstrap-teacher text-center probootstrap-animate">
                 <figure class="media">
-                  <img src="enlight/img/person_5.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                  <img src="enlight/img/guru/person_5.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
                 </figure>
                 <div class="text">
                   <h3>Kurnia Setiawan, S.Pd</h3>
@@ -239,7 +239,7 @@
             <div class="col-md-3 col-sm-6">
               <div class="probootstrap-teacher text-center probootstrap-animate">
                 <figure class="media">
-                  <img src="enlight/img/rosi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                  <img src="enlight/img/guru/rosi.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
                 </figure>
                 <div class="text">
                 <h3>Rosi Rosidah, S.Pd</h3>
@@ -256,7 +256,7 @@
             <div class="col-md-3 col-sm-6">
               <div class="probootstrap-teacher text-center probootstrap-animate">
                 <figure class="media">
-                  <img src="enlight/img/anita.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
+                  <img src="enlight/img/guru/anita.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive">
                 </figure>
                 <div class="text">
                   <h3>Anita Mulyani, S.Pd</h3>
