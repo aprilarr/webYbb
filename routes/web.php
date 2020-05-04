@@ -48,7 +48,5 @@ Route::get('/organigram', function () {
     return view('organigram', ['nama' => $nama]);
 });
 
-Route::get('/kontak', function () {
-    $nama = 'HUBUNGI KAMI';
-    return view('kontak', ['nama' => $nama]);
-});
+Route::get('/kontak', 'KontakController@index');
+Route::post('/kontak/send', 'KontakController@send');

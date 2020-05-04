@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-left section-heading probootstrap-animate">
-                <h2>{{$nama}}</h2>
+                <h2>HUBUNGI KAMI</h2>
             </div>
         </div>
     </div>
@@ -31,10 +31,30 @@
                 </ul>
                 </div>
             </div>
+
             <div class="col-md-7 col-md-push-1  probootstrap-animate" id="probootstrap-content">
                 <h2>Hubungi Kami Dengan:</h2>
                 <p>semua kritik dan saran anda dapat anda kirim melalui pengisian formulir dibawah ini. </p>
-                <form action="#" method="post" class="probootstrap-form">
+                
+                @if (count($errors) > 0)
+                    <div class="alert alert-danger">
+                        <button type="button" class="close" data-dismiss="alert">x</button>
+                        <ul>
+                            @foreach ($errors->all() as $error)
+                            <li>{{$error}}</li>
+                            @endforeach
+                        </ul>
+                    </div>
+                @endif
+                
+                @if ($message = Session::get('Sukses'))
+                    <div class="alert alert-success alert-block">
+                        <button type="button" class="close" data-dismiss="alert">x</button>
+                        <strong>{{$message}}</strong>
+                    </div>
+                @endif
+                <form action="{{url('kontak/send')}}" method="post" class="probootstrap-form">
+                {{csrf_field()}}
                 <div class="form-group">
                     <label for="name">Full Name</label>
                     <input type="text" class="form-control" id="name" name="name">
