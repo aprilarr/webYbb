@@ -24,7 +24,7 @@ class KontakController extends Controller
             'name'      => $request->name,
             'message'   => $request->message
         );
-        Mail::to('budi.bakti1980@gmail.com')->send(new Sendmail($data));
+        Mail::to('ybb1980@yayasanbudibaktibdg.sch.id')->send(new Sendmail($data));
         return back()->with('Sukses', 'Terima Kasih Telah Menghubungi Kami!');
     }
 }

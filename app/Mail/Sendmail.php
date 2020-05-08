@@ -28,7 +28,7 @@ class Sendmail extends Mailable
      */
     public function build()
     {
-        return $this->from('budi.bakti1980@gmail.com')->subject('KRITIK dan SARAN Web SMP YBB')->view('email')
+        return $this->from('ybb1980@yayasanbudibaktibdg.sch.id')->subject('KRITIK dan SARAN Web SMP YBB')->view('email')
             ->with('data', $this->data);
     }
 }
